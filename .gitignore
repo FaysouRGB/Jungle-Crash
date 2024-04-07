@@ -1,3 +1,11 @@
+Build/
+Library/
+Logs/
+UserSettings/
+Temp/
+.vscode/
+
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -60,6 +68,8 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
+
+Build/
 
 # Crashlytics generated file
 crashlytics-build.properties
